@@ -1,0 +1,17 @@
+.Task {
+  border-bottom: 1px solid rgb(0, 123, 255);
+  height: 40px;
+  margin-top: 10px;
+  margin-left: 20px;
+  margin-bottom: -1px;
+}
+
+.Task li {
+  margin-left: 20px;
+  /* list-style: none;  */
+}
+
+.btnDelete {
+  float: right;
+  margin-right: 10px;
+}
